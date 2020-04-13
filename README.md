@@ -1,3 +1,3 @@
 # 777
 
-My favorite palindromical number 
+My favorite palindromic number 
